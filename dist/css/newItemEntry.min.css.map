@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACV,QAAQ,CAAE,MAAM,CAChB,GAAG,CAAE,CAAC,CACN,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,OAAO,CAWnB,AAfD,AAMI,aANS,CAMT,IAAI,AAAC,CACD,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,aAAa,CAMjC,AAdL,AAUQ,aAVK,CAMT,IAAI,CAIA,KAAK,AAAC,CACF,QAAQ,CAAE,QAAQ,CAClB,IAAI,CAAE,QAAQ,CACjB",
+    "sources": [
+        "../../sass/newItemEntry.scss"
+    ],
+    "names": [],
+    "file": "newItemEntry.min.css"
+}
